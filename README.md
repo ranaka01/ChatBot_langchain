@@ -1,6 +1,6 @@
 # LangChain Chatbot with LLAMA3 and Chat History
 
-This project is a simple chatbot web application built using [LangChain](https://python.langchain.com/), [Streamlit](https://streamlit.io/), and the LLAMA3 model (via Ollama). It supports chat history and displays the last four turns of the conversation.
+This project is a simple chatbot web application built using [LangChain](https://python.langchain.com/), [Streamlit](https://streamlit.io/), and the LLAMA3 model (via Ollama). It supports chat history.
 
 ## Features
 - Chat with an AI assistant powered by LLAMA3 (gemma3:1b)
