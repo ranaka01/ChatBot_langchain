@@ -48,7 +48,6 @@ requirements.txt     # Python dependencies
 - The chat history is stored in Streamlit's session state.
 - User input is processed and sent to the LLAMA3 model via LangChain.
 - The AI's response and user messages are appended to the chat history.
-- The last four turns of the conversation are displayed in the UI.
 
 ## Customization
 - Change the model by editing the `OllamaLLM(model="gemma3:1b")` line in `localama.py`.
@@ -62,5 +61,3 @@ requirements.txt     # Python dependencies
 - langchain_ollama
 - python-dotenv
 
-## License
-This project is for educational purposes.
